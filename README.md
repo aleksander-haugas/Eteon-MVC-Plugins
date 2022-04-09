@@ -1,6 +1,10 @@
 # Eteon-MVC-Plugins
 Eteon MVC public plugins repository
 <img src="docs/Screenshot_2022-04-09_07-46-46.png" alt="plugins page" width="100%" />
+
+### Installation:
+Simple, place downloaded plugin files in the root of your webserver accesing via ftp. Make sure your plugin is unzipped, in the future also can upload  the package and zipped.
+
 * Skeleton
 * Newsletter
 * Downloads
