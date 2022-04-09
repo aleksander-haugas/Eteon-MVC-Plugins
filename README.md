@@ -19,3 +19,10 @@ Eteon MVC public plugins repository
 * Codemirror (Pretty code) editor
 * Advanced modular fields
 * File manager
+* Maintencance
+* Documentation
+* Comments
+* Tags
+* Dashboard
+* Domain check & registration
+* Not found
