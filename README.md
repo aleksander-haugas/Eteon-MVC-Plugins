@@ -1,5 +1,8 @@
 # Eteon MVC Plugins
-Eteon MVC public plugins repository
+Eteon allows you to host and build websites or web apps. Eteon contains plugin architecture and a template system, so you can customize any website to fit your business, blog, portfolio, or online store.
+
+MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software's business logic and display. This "separation of concerns" provides for a better division of labor and improved maintenance.
+
 <img src="docs/Screenshot_2022-04-09_07-46-46.png" alt="plugins page" width="100%" />
 
 ### Installation:
