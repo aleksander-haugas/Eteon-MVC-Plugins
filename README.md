@@ -4,8 +4,10 @@ Eteon allows you to host and build websites or web apps. Eteon contains plugin a
 MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software's business logic and display. This "separation of concerns" provides for a better division of labor and improved maintenance.
 
 <img src="docs/Screenshot_2022-04-09_07-46-46.png" alt="plugins page" width="100%" />
+### Framework Installation:
+https://github.com/aleksander-haugas/Eteon-MVC
 
-### Installation:
+### Plugin Installation:
 Simple, place downloaded plugin files in the root of your webserver accesing via ftp. Make sure your plugin is unzipped, in the future also can upload  the package and zipped.
 
 * Skeleton (release)
