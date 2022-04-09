@@ -26,3 +26,7 @@ Eteon MVC public plugins repository
 * Dashboard
 * Domain check & registration
 * Not found
+* Blog / News / Articles
+* Archived by date
+* Scala XLA payment gateway & wallet (soon)
+* Scala proxy server manager (soon)
