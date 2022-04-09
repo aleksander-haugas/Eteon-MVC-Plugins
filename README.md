@@ -34,3 +34,4 @@ Simple, place downloaded plugin files in the root of your webserver accesing via
 * Archived by date
 * Scala XLA payment gateway & wallet (soon)
 * Scala proxy server manager (soon)
+* ECDH Key Exchange tasks 
