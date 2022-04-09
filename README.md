@@ -1,4 +1,4 @@
-# Eteon-MVC-Plugins
+# Eteon MVC Plugins
 Eteon MVC public plugins repository
 <img src="docs/Screenshot_2022-04-09_07-46-46.png" alt="plugins page" width="100%" />
 
