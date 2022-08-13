@@ -11,6 +11,7 @@ https://github.com/aleksander-haugas/Eteon-MVC
 Simple, place downloaded plugin files in the root of your webserver accesing via ftp. Make sure your plugin is unzipped, in the future also can upload  the package and zipped.
 
 * Skeleton (release)
+* Keyboard shortcuts (release)
 * Newsletter (release)
 * Downloads (release)
 * Ecommerce (soon)
