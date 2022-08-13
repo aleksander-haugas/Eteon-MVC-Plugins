@@ -12,40 +12,37 @@ https://github.com/aleksander-haugas/Eteon-MVC
 ### :checkered_flag: Plugin Installation:
 Simple, place downloaded plugin files in the root of your webserver accesing via ftp. Make sure your plugin is unzipped, in the future also can upload  the package and zipped.
 
+### :globe_with_meridians: Community Plugins (FREE)
 Plugin Name | Database | JavaScript | PHP | Eteon MVC | Version | Status | Download
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------| :-------------| :-------------
 Keyboard shortcuts | :x: |  :heavy_check_mark: | :x: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/shortcuts_control)
+Skeleton | :x: |  :x: | :x: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/skeleton)
 
-- [ ] Skeleton (release) 
-- [ ] Newsletter (release)
-- [ ] Downloads (release)
-- [ ] Ecommerce (soon)
-- [ ] Image resize (revision)
-- [ ] Link tracker (release)
-- [ ] Markdown (WYSIWYG) editor (release)
-- [ ] Private messaging system (release)
-- [ ] Notes (release)
+- [x] Skeleton (release) 
+- [x] Markdown (WYSIWYG) editor (release)
 - [ ] Related pages (release)
-- [ ] SEO optimization & analytics (release)
-- [ ] Roles manager (release)
-- [ ] Smart cache (revision)
-- [ ] Users manager (release)
-- [ ] Textedit (WYSIWYG) editor (release)
-- [ ] Codemirror (Pretty code) editor (release)
-- [ ] Advanced modular fields (revision)
-- [ ] File manager (release)
-- [ ] Maintencance (release)
-- [ ] Documentation (release)
-- [ ] Comments (release)
-- [ ] Tags (release)
-- [ ] Dashboard (release)
-- [ ] Domain check & registration (release)
-- [ ] Not found (release)
-- [ ] Blog / News / Articles (release)
-- [ ] Archived by date (release)
-- [ ] Scala XLA payment gateway & wallet (soon)
-- [ ] Scala proxy server manager (soon)
+- [x] Textedit (WYSIWYG) editor (release)
+- [x] Maintencance (release)
+- [x] Documentation (release)
+- [x] Comments (release)
+- [x] Tags (release)
+- [x] Dashboard (release)
+- [x] Not found (release)
+- [x] Blog / News / Articles (release)
+- [x] Archived by date (release)
+- [x] Scala XLA payment gateway & wallet (dev)
+- [x] Scala proxy server manager (Revision)
+
+
+
+### :trophy: Premium Plugins
 - [ ] ECDH Key Exchange tasks (revision)
-
-
-
+- [x] Ecommerce platform
+- [x] Private messaging system
+- [x] Advanced SEO Managnament
+- [x] Smart Cache
+- [x] Image resizer & optimizer
+- [x] Backup / Restore
+- [x] Newsletters
+- [x] Download manager
+- [x] Advanced security tools
