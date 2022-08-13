@@ -6,7 +6,7 @@ MVC (Model-View-Controller) is a pattern in software design commonly used to imp
 <img src="docs/Screenshot_2022-04-09_07-46-46.png" alt="plugins page" width="100%" />
 The plugin system allows to wrap a Client and add some processing logic prior to and/or after sending the actual request or you can even start a completely new request. This gives you full control over what happens in your workflow.
 
-### Framework Installation:
+### :bulb: Framework Installation:
 https://github.com/aleksander-haugas/Eteon-MVC
 
 ### :checkered_flag: Plugin Installation:
