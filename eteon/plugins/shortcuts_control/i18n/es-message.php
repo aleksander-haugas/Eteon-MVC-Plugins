@@ -18,6 +18,7 @@
 	*/
 
     return array(
+    	'Keyboard shortcuts' => 'Atajos de teclado',
     	'Successfully activated shortcuts_control plugin!' => '¡Complemento shortcuts_control activado con éxito!',
 	    'Successfully deactivated shortcuts_control plugin!' => '¡Se desactivó con éxito el complemento shortcuts_control!',
 	    'Supports "Ctrl-S" keystroke to save form and continue editing.' => 'Admite la pulsación de tecla "Ctrl-S" para guardar el formulario y continuar editando.',
