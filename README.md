@@ -15,8 +15,9 @@ Simple, place downloaded plugin files in the root of your webserver accesing via
 ### :globe_with_meridians: Community Plugins (FREE)
 Plugin Name | Database | JavaScript | PHP | Eteon MVC | Version | Status | Download
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------| :-------------| :-------------
-Keyboard shortcuts | :x: |  :heavy_check_mark: | :x: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/shortcuts_control)
-Skeleton | :x: |  :x: | :x: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/skeleton)
+Keyboard shortcuts | :x: |  :heavy_check_mark: | :heavy_check_mark: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/shortcuts_control)
+Skeleton | :x: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/skeleton)
+Archive | :x: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.1.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/archive)
 
 - [x] Skeleton (release) 
 - [x] Markdown (WYSIWYG) editor (release)
@@ -29,7 +30,6 @@ Skeleton | :x: |  :x: | :x: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github
 - [x] Dashboard (release)
 - [x] Not found (release)
 - [x] Blog / News / Articles (release)
-- [x] Archived by date (release)
 - [x] Scala XLA payment gateway & wallet (dev)
 - [x] Scala proxy server manager (Revision)
 
