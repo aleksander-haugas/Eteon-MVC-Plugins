@@ -17,7 +17,7 @@ Plugin Name | Database | JavaScript | PHP | Eteon MVC | Version | Status | Downl
 :------------ | :-------------| :-------------| :-------------| :-------------| :-------------| :-------------| :-------------
 Keyboard shortcuts | :x: |  :heavy_check_mark: | :heavy_check_mark: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/shortcuts_control)
 Skeleton | :x: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/skeleton)
-Archive | :x: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.1.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/archive)
+Archive | :heavy_check_mark: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.1.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/archive)
 
 - [x] Skeleton (release) 
 - [x] Markdown (WYSIWYG) editor (release)
