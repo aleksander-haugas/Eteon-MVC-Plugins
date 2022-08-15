@@ -18,8 +18,8 @@ Plugin Name | Database | JavaScript | PHP | Eteon MVC | Version | Status | Downl
 Keyboard shortcuts | :x: |  :heavy_check_mark: | :heavy_check_mark: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/shortcuts_control)
 Skeleton | :x: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.1.1 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/skeleton)
 Archive | :heavy_check_mark: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.1.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/archive)
+Page not found | :x: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.0.0 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/page_not_found)
 
-- [x] Skeleton (release) 
 - [x] Markdown (WYSIWYG) editor (release)
 - [ ] Related pages (release)
 - [x] Textedit (WYSIWYG) editor (release)
@@ -28,7 +28,6 @@ Archive | :heavy_check_mark: |  :x: | :heavy_check_mark: | 0.9.4+ | 1.1.0 | Rele
 - [x] Comments (release)
 - [x] Tags (release)
 - [x] Dashboard (release)
-- [x] Not found (release)
 - [x] Blog / News / Articles (release)
 - [x] Scala XLA payment gateway & wallet (dev)
 - [x] Scala proxy server manager (Revision)
