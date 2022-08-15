@@ -16,11 +16,16 @@
     THE SOFTWARE.
 */
 
-document.querySelector(document).keydown(function(event) {
-    if (!( String.fromCharCode(event.which).toLowerCase() == 's' && event.ctrlKey && !event.altKey) && !(event.which == 19)) return true;
-    //alert("Ctrl-s pressed");
-    //find submit button with name == "continue" and travel upwards DOM to find parent form and sumbit it
-    if (document.querySelector('#content').querySelector('input[name|="continue"]').parents('form').submit()) {
-    event.preventDefault(); return false;
+document.addEventListener('keydown', e => {
+    var x = e.key;
+    if (!(e.ctrlKey && !e.altKey)) return true;
+
+    if (e.ctrlKey && (x === 's' || x === 'S')) {
+        // Prevent the Save dialog to open
+        e.preventDefault();
+        // find submit button with name == "continue" and travel upwards DOM to find parent form and sumbit it
+        if (document.querySelector('#content').querySelector('input[name|="continue"]').closest('form').submit()) {
+            return false;
+        }
     }
-});
+  });
