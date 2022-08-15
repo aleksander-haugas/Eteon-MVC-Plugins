@@ -1,9 +1,9 @@
 <?php
 	/*
-		Version: 			0.9.4
+		Version: 		0.9.4
 		WebSite: 		http://eteon.airzox.com
 		Licensed:		AirZox Technologies
-		License-key:		KJXS-NMAL-004D-V15A
+		License-key:	KJXS-NMAL-004D-V15A
 		Developed by: 	Aleksander Haugas (Eteon MVC)
 		
 		Copyright (C) 2021, AirZox All rights reserved.
@@ -18,9 +18,7 @@
 	*/
  
 	// Security measure
-	if ( !defined('IN_CMS') ) {
-		exit();
-	}
+	if (!defined('IN_CMS')) { exit(); }
 
 	// Define filter.
 	class NicEdit {
@@ -28,4 +26,3 @@
 			return $text;
 		}
 	}
-?>
