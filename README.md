@@ -36,6 +36,7 @@ Comments | :heavy_check_mark: | :x: | :heavy_check_mark: | 0.9.4+ | 1.2.1 | Rele
 
 
 ### :trophy: Premium Plugins
+All the premium plugins can be download from the official website [Eteon MVC](https://eteon.airzox.com/addons), premium plugins have more updates and improvements, we also accept suggestions.
 - [ ] ECDH Key Exchange tasks (revision)
 - [x] Ecommerce platform
 - [x] Private messaging system
