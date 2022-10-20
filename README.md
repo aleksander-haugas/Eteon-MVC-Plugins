@@ -23,6 +23,7 @@ Syntax highlighting | :x: |  :heavy_check_mark: | :heavy_check_mark: | 0.9.4+ | 
 Minify CSS & JS | :x: |  :x: | :heavy_check_mark: | 0.9.4+ | 0.0.1 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/minify)
 Dashboard | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 0.9.4+ | 0.0.1 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/dashboard)
 Comments | :heavy_check_mark: | :x: | :heavy_check_mark: | 0.9.4+ | 1.2.1 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/comment)
+Smart Cache | :heavy_check_mark: | :x: | :heavy_check_mark: | 0.9.4+ | 0.4.1 | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/smart_cache)
 
 - [x] Markdown (WYSIWYG) editor (release)
 - [ ] Related pages (release)
