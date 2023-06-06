@@ -19,18 +19,7 @@
  * Donate URI: https://eteon.airzox.com/donate/
  */
 
-/* Security measure */
 if (!defined('IN_CMS')) { exit(); }
 
-// Attempt to delete plugin settings
-if (Plugin::deleteAllSettings('archive') === false) {
-
-    // Error in delete plugin settings
-    Flash::set('error', __('Unable to delete plugin settings.'));
-    redirect(get_url('setting'));
-
-} else {
-    // Succefully all plugin data is deleted and cleaned
-    Flash::set('success', __('Successfully uninstalled :name plugin!', array(':name' => __('Archived pages'))));
-}
+Flash::set('info', __('Successfully deactivated :name plugin!', array(':name' => __('Archived pages'))));
 exit();

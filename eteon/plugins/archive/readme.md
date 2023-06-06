@@ -1,21 +1,14 @@
-Archives plugin for Eteon MVC
-=============================
+# NOTAS:
 
-Are you looking for a way to display a beautifully formatted archives list of months separated by year? 
-While there’s probably a plugin for this, we have created a quick code snippet that you can use to display formatted archives by month separated by year in Eteon MVC
+En un contexto de estructura de sitio web o sistema de gestión de contenido, es común tener una página de Archivo que muestra una lista de contenido organizado por año, mes y día. Sin embargo, para que funcione correctamente, se establece que este índice específico debe ser una página secundaria de la página de Archivo principal.
 
+Esto implica que la jerarquía de páginas se organizaría de la siguiente manera:
 
-Installation
-------------
+* Página principal de Archivo
+* * Página de índice de año
+* * * Página de índice de mes
+* * * * Página de índice de día
 
-Archives Plugin can be installed into your Eteon MVC by uploading it to ***CMS_ROOT/eteon/plugins/archive/*** and enabling it in administration panel.
+De esta manera, los usuarios pueden navegar a través de las páginas de índice para acceder a la información archivada de manera estructurada y ordenada cronológicamente.
 
-Changelog
----------
-
-- first release
-
-License
--------
-
-* GPLv3 license
+Al requerir que el índice de año, mes y día sea una página secundaria de la página de Archivo principal, se asegura una navegación coherente y facilita la organización y presentación de los contenidos archivados.
