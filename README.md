@@ -27,14 +27,10 @@ Smart Cache | :heavy_check_mark: | :x: | :heavy_check_mark: | 0.9.4+ | 0.4.1   |
 Suneditor | :heavy_check_mark: | :x: | :heavy_check_mark: | 0.9.4+ | 0.1.1   | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/suneditor)
 SimpleMDE | :heavy_check_mark: | :x: | :heavy_check_mark: | 0.9.4+ | 0.1.1   | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/simplemde)
 Codemirror | :heavy_check_mark: | :x: | :heavy_check_mark: | 0.9.4+ | 1.0.4   | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/smart_cache)
+Maintenance | :heavy_check_mark: | :x: | :heavy_check_mark: | 0.9.4+ | 1.1.0   | Release | [Latest](https://github.com/aleksander-haugas/Eteon-MVC-Plugins/tree/main/eteon/plugins/smart_cache)
 
 
-- [x] Markdown (WYSIWYG) editor (release)
 - [ ] Related pages (release)
-- [x] Textedit (WYSIWYG) editor (release)
-- [x] Maintencance (release)
-- [x] Tags (release)
-- [x] Blog / News / Articles (release)
 - [x] Scala XLA payment gateway & wallet (dev)
 - [x] Scala proxy server manager (Revision)
 
@@ -47,8 +43,30 @@ All the premium plugins can be download from the official website [Eteon MVC](ht
 - [x] Private messaging system
 - [x] Advanced SEO Managnament
 - [x] Smart Cache
+- [x] Tags (release)
+- [x] Blog / News / Articles (release)
 - [x] Image resizer & optimizer
 - [x] Backup / Restore
 - [x] Newsletters
 - [x] Download manager
 - [x] Advanced security tools
+- [x] Latex Render
+- [x] Link Tracker
+- [x] Notes
+- [x] Survey
+- [x] Private Lockbox
+- [x] Restrict PHP & JS
+- [x] Poll
+- [x] Whois
+- [x] Custom Redirector
+- [x] Notes etitor
+- [x] Site search
+- [x] Multi Lang
+- [x] Modular content
+- [x] Custom fields
+- [x] Google Maps
+- [x] ADS Manager
+- [x] Sitemap manager
+- [x] Robots manager
+- [x] Domain registrations API
+- [x] Calendar
