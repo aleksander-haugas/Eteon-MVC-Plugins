@@ -70,3 +70,4 @@ All the premium plugins can be download from the official website [Eteon MVC](ht
 - [x] Robots manager
 - [x] Domain registrations API
 - [x] Calendar
+- [x] Advanced roles manager
